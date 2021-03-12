@@ -1,0 +1,45 @@
+city name,x,y,earnings
+London
+723
+770
+306.0
+Calgary
+367
+661
+256.0
+Charlottetown
+914
+728
+136.0
+Edmonton
+375
+625
+240.0
+Halifax
+913
+748
+180.0
+North Bay
+727
+724
+135.0
+Quebec City
+823
+720
+199.0
+Regina
+465
+664
+208.0
+St. John's
+1024
+712
+192.0
+Thunder Bay
+627
+695
+112.0
+Winnipeg
+546
+670
+135.0

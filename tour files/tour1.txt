@@ -1,0 +1,29 @@
+city name,x,y,earnings
+London
+723
+770
+500.0
+Edmonton
+375
+625
+180.0
+Halifax
+913
+748
+190.0
+Quebec City
+823
+720
+175.0
+Regina
+465
+664
+150.0
+Vancouver
+273
+683
+210.0
+Winnipeg
+546
+670
+180.0

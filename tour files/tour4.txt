@@ -1,0 +1,29 @@
+city name,x,y,earnings
+London
+723
+770
+247.0
+Charlottetown
+914
+728
+136.0
+Fredricton
+875
+730
+163.0
+Halifax
+913
+748
+188.0
+Iqaluit
+857
+465
+85.0
+Quebec City
+823
+720
+217.0
+St. John's
+1024
+712
+192.0

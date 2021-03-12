@@ -1,0 +1,37 @@
+city name,x,y,earnings
+London
+723
+770
+300.0
+Edmonton
+375
+625
+240.0
+Halifax
+913
+748
+180.0
+Iqaluit
+857
+465
+85.0
+North Bay
+727
+724
+105.0
+Quebec City
+823
+720
+199.0
+Whitehorse
+140
+517
+115.0
+Winnipeg
+546
+670
+135.0
+Yellowknife
+377
+485
+112.0
